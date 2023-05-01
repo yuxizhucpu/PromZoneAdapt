@@ -2,7 +2,7 @@ Package: PromZoneAdapt
 Title: Adapting Sample Size in Clinical Trials Using the Promising Space Approach.
 Version: 0.0.0.9000
 Authors@R: 
-    person("Yuxi", "Zhu", , "yuxi_zhu@hotmail.com", role = c("aut", "cre"))
+    person("Yuxi", "Zhu", "yuxi_zhu@hotmail.com", role = c("aut", "cre"))
 Description: Sample size adapation at the second stage of two-stage group sequential design based on promising space approach.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
